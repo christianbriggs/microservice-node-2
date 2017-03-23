@@ -1,4 +1,4 @@
-from V1App import create_app
+from V2App import create_app
 
 app = create_app()
 
